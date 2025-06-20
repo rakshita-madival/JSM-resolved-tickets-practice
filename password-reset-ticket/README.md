@@ -57,7 +57,7 @@ This section shows the step-by-step workflow of a password reset ticket resoluti
 
 8. **Ticket Closed**  
    Issue resolved and the ticket is marked as closed.  
-   [Closed](./closed.png)
+   [Closed](https://github.com/rakshita-madival/JSM-resolved-tickets-practice/blob/97a8bc9c5e476b511201666c015a35f8494a30fe/password-reset-ticket/closed.png)
 
 ## 💬 Comments Added in JSM
 
