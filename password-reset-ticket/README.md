@@ -33,7 +33,7 @@ This section shows the step-by-step workflow of a password reset ticket resoluti
 
 2. **While Adding the Request Form**  
    Setting up the reset my password request form in the portal.  
-   [Adding request form](./adding-request-form.png)
+   [Adding request form](https://github.com/rakshita-madival/JSM-resolved-tickets-practice/blob/da2a2170d0e297f312dad31246b8b5370c7cf1ff/password-reset-ticket/adding-request-form-in-portal.png)
 
 3. **Request Form Successfully Added to Portal**  
    Confirmation that the request form is now visible to end users.  
