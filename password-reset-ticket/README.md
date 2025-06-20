@@ -37,7 +37,7 @@ This section shows the step-by-step workflow of a password reset ticket resoluti
 
 3. **Request Form Successfully Added to Portal**  
    Confirmation that the request form is now visible to end users.  
-   [Added request form to portal](./added-request-form-portal.png)
+   [Added request form to portal](https://github.com/rakshita-madival/JSM-resolved-tickets-practice/blob/da2a2170d0e297f312dad31246b8b5370c7cf1ff/password-reset-ticket/added-request-form-in-portal.png)
 
 4. **Ticket Raised by End User**  
    An end user submits a password reset request.  
