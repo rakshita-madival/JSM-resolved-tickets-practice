@@ -49,7 +49,7 @@ This section shows the step-by-step workflow of a password reset ticket resoluti
 
 6. **Ticket in Progress**  
    Support agent has started working on the ticket.  
-   [In progress](./in-progress.png)
+   [In progress](https://github.com/rakshita-madival/JSM-resolved-tickets-practice/blob/9ab0a550621ae93c045317632a3d74de2b8c786b/password-reset-ticket/in-progress.png)
 
 7. **Public Comments by Agent**  
    Agent provides updates using public comments visible to the end user.  
