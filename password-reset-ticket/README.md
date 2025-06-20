@@ -23,11 +23,41 @@ This is a simulated IT support ticket for a password reset request, created and 
 ## 🖼️ Screenshots
 
 The screenshots below show the full process of resolving a password reset request inside Jira Service Management (JSM). Each step represents part of the ticket lifecycle — from creation to resolution.
+## 📸 Screenshots – Password Reset Ticket Workflow
 
-Step	Screenshot
-1️⃣ Ticket raised by the end user	
-2️⃣ Agent views and starts working on the ticket	
-3️⃣ Ticket marked as resolved after password reset
+This section shows the step-by-step workflow of a password reset ticket resolution in Jira Service Management, documented with screenshots:
+
+1. **Before Adding Request Form to Portal**  
+   The customer portal before the reset my password form was added.  
+   [Before adding request form](./before-adding-request-form.png)
+
+2. **While Adding the Request Form**  
+   Setting up the reset my password request form in the portal.  
+   [Adding request form](./adding-request-form.png)
+
+3. **Request Form Successfully Added to Portal**  
+   Confirmation that the request form is now visible to end users.  
+   [Added request form to portal](./added-request-form-portal.png)
+
+4. **Ticket Raised by End User**  
+   An end user submits a password reset request.  
+   [Ticket raised](./ticket-raised.png)
+
+5. **Ticket Waiting for Support**  
+   The ticket is queued and waiting to be picked up.  
+   [Waiting for support](./agent-view.png)
+
+6. **Ticket in Progress**  
+   Support agent has started working on the ticket.  
+   [In progress](./in-progress.png)
+
+7. **Public Comments by Agent**  
+   Agent provides updates using public comments visible to the end user.  
+   [Public comment](./public-comment.png)
+
+8. **Ticket Closed**  
+   Issue resolved and the ticket is marked as closed.  
+   [Closed](./closed.png)
 
 ## 💬 Comments Added in JSM
 
@@ -38,4 +68,7 @@ Step	Screenshot
 ## 🏁 Final Resolution
 
 Ticket was closed successfully after informing the user.
+
+**NOTE: In real environments, tools like Active Directory are used for password resets. This project focuses on the ticket resolution workflow using Jira Service Management (JSM).*
+
 
