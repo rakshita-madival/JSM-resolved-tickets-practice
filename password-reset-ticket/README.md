@@ -45,7 +45,7 @@ This section shows the step-by-step workflow of a password reset ticket resoluti
 
 5. **Ticket Waiting for Support**  
    The ticket is queued and waiting to be picked up.  
-   [Waiting for support](./agent-view.png)
+   [Waiting for support](https://github.com/rakshita-madival/JSM-resolved-tickets-practice/blob/1650fb7a281e0221ecbc59c932385f505ec3aa8b/password-reset-ticket/agent-view.png)
 
 6. **Ticket in Progress**  
    Support agent has started working on the ticket.  
