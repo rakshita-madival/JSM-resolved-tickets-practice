@@ -14,14 +14,20 @@ This is a simulated IT support ticket for a password reset request, created and 
 ## 🧑‍💻 Steps Taken to Resolve
 
 1. Verified the user’s identity and checked the Outlook login issue.
-2. Reset the password in the system.
-3. Generated a **temporary password** and emailed it to the user.
-4. Commented on the ticket to notify the user.
-5. Closed the ticket after confirmation.
+2. added new  request form in portal. 
+3. Reset the password in the system.
+4. Generated a **temporary password** and emailed it to the user.
+5. Commented on the ticket to notify the user.
+6. Closed the ticket after confirmation.
 
 ## 🖼️ Screenshots
 
-Screenshots of the full process are added in the `/screenshots` folder inside this ticket folder.
+The screenshots below show the full process of resolving a password reset request inside Jira Service Management (JSM). Each step represents part of the ticket lifecycle — from creation to resolution.
+
+Step	Screenshot
+1️⃣ Ticket raised by the end user	
+2️⃣ Agent views and starts working on the ticket	
+3️⃣ Ticket marked as resolved after password reset
 
 ## 💬 Comments Added in JSM
 
