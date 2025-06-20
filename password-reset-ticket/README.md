@@ -41,7 +41,7 @@ This section shows the step-by-step workflow of a password reset ticket resoluti
 
 4. **Ticket Raised by End User**  
    An end user submits a password reset request.  
-   [Ticket raised](./ticket-raised.png)
+   [Ticket raised](https://github.com/rakshita-madival/JSM-resolved-tickets-practice/blob/15fa6838697c3b2c0f269826bdfe302af45e32ea/password-reset-ticket/ticket-raised.png)
 
 5. **Ticket Waiting for Support**  
    The ticket is queued and waiting to be picked up.  
