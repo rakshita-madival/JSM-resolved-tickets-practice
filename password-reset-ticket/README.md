@@ -53,7 +53,7 @@ This section shows the step-by-step workflow of a password reset ticket resoluti
 
 7. **Public Comments by Agent**  
    Agent provides updates using public comments visible to the end user.  
-   [Public comment](./public-comment.png)
+   [Public comment](https://github.com/rakshita-madival/JSM-resolved-tickets-practice/blob/67e28a9d60d6974eab5e659d4c79af3bb15cda91/password-reset-ticket/public-comment.png)
 
 8. **Ticket Closed**  
    Issue resolved and the ticket is marked as closed.  
